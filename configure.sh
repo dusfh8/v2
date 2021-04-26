@@ -30,7 +30,7 @@ cat << EOF > /usr/local/etc/v2ray/config.json
             "streamSettings": {
                 "network": "ws"
                 "headers": {
-              "Host": ["你的免流host"],
+              "Host": ["video.10010.com"],
             }
         }
     ],
